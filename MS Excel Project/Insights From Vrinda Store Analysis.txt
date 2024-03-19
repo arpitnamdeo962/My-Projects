@@ -1,0 +1,9 @@
+1.Sales by Gender: Women made up 64% of Vrinda Store's orders in 2022, while men made up 36%. This suggests that Vrinda Store caters more towards a female clientele.
+
+2.Sales by Age Group: Adult women (34.59%) placed the most orders, followed by adult men (21.13%) and teenagers (both male and female) (9.20% + 5.91%). This suggests that Vrinda Store should focus its marketing efforts on adult women.
+
+3.Top Selling Channels: Myntra (23%), Flipkart (22%), and Meesho (5%) were the top channels for Vrinda Store in 2022. Amazon is not listed among the top channels, despite being a major e-commerce platform in India. This suggests that Vrinda Store may want to consider partnering with Amazon to reach a wider audience.
+
+4.Top Selling States: Maharashtra (2.99M), Karnataka (2.65M), Uttar Pradesh (2.10M), Tamil Nadu (1.68M), and Telangana (1.71M) were the top 5 states for Vrinda Store in 2022. This suggests that Vrinda Store has a strong presence in South India.
+
+Overall, the data suggests that Vrinda Store should focus its marketing efforts on adult women in South India, particularly through online channels such as Myntra, Flipkart, and Meesho.
